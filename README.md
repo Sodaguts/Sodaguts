@@ -1,6 +1,6 @@
 ## Hi there 👋
-I'm Celica, a Senior Game Programming Student @ Champlain College
-I'm currently working on some projects in SDL and Raylib!
+I'm Celica, a Senior Game Programming Student @ Champlain College.
+<br/>I'm currently working on some projects in SDL and Raylib!
 
 <!--
 **Sodaguts/Sodaguts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
